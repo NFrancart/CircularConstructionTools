@@ -5,3 +5,4 @@ Four open source, Excel-based tools to assess circularity in building projects, 
  3) The Planetary Boundary Tool is used to set an absolute target for a project's climate impact, by scaling down the Planetary Boundary for climate change. This involves several normative choices, which are explained further in the Doughnut Economics for Urban Development manual - see https://www.home.earth/doughnut
  4) The Upfront Carbon Tool provides a simple way of visualizing greenhouse gas emissions from a project happening today. It provides alternative ways of visualizing results from an existing LCA study. 
 
+If you want to edit or modify the tools, use the password CCUD to unlock any sheet.
