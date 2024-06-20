@@ -1,4 +1,4 @@
-# CircularConstructionTools
+# Circular Construction Tools
 Four open source, Excel-based tools to assess circularity in building projects, developed as part of the Circular Construction for Urban Development Manual.
  1) The Circularity Tool calculates a circularity score for a whole building and individual building parts, highlighting the benefits of reuse, longevity and design for disassembly. It is an adaptation (among others) of the Material Circularity Indicator proposed by Ellen MacArthur Foundation, at the scale of a whole building.
  2) The Existing Reuse Tool provides a rough estimate of the embodied carbon savings that can be achieved by reusing elements from an existing building in a new project. It is meant for scoping and prioritizing in very early design stages.
